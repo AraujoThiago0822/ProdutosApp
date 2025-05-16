@@ -6,7 +6,9 @@ Este é um aplicativo simples em **React Native com Expo** que exibe uma lista d
 
 ## 📱 Demonstração
 
-<img src="https://github.com/SEU_USUARIO/produtos-app/blob/main/print.png" width="300" alt="Print do app">
+
+![TELA DE INICIO](https://github.com/user-attachments/assets/a56c960b-0941-4490-8181-812cfba1de7b)
+![MENSAGEM DE ALERTA](https://github.com/user-attachments/assets/1ded859d-0a98-45b5-ad9e-81422c553f5e)
 
 ---
 
